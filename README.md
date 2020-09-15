@@ -15,9 +15,9 @@ Breve resumo do artigo apresentado no 28 Congresso de fonoaudiologia (FONO 2020)
 - **Conclusão**: A criação de um sistema de síntese de voz acessível e de uso livre é de considerável importância, sobretudo para a comunidade acadêmica (e/ou aqueles que tem restrições de capital). Os áudios gerados podem ser tanto utilizados de forma praticamente instantânea, quando gravados em um arquivo de áudio como wave ou mp3, por exemplo. Como objetivo futuro, espera-se expandir o projeto, adicionando mais recursos que possam ser úteis nas práticas de fonoaudiologia e engenharia.
 
 ## Uso
-No dado momento, o *software* desenvolvido ainda não possui um arquivo executável (.exe), necessitanto ser executato em um compilador Python. Para mais informações sobre como baixar e instalar o Python e pacotes necessários acesse (sites, sites e mais sites).
+No dado momento, o *software* desenvolvido ainda não possui um arquivo executável (.exe), necessitando ser executado em um compilador Python. Para mais informações sobre como baixar e instalar o Python e pacotes necessários acesse (sites, sites e mais sites).
 
-Para usar os *software* basta baixar os arquivos deste repositório, instalar as dependências e executar o arquivo *ttsApp_v1.py* no terminal do Pyhton para rodar  programa.
+Para usar os *software* basta fazer o download dos arquivos deste repositório, instalar as dependências e executar o arquivo *ttsApp_v1.py* no terminal do Pyhton para rodar  programa.
 
 ![](FONO2020.png)
 
