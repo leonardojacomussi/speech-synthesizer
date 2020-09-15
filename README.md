@@ -19,7 +19,12 @@ No dado momento, o *software* desenvolvido ainda não possui um arquivo executá
 
 Para usar os *software* basta baixar os arquivos deste repositório, instalar as dependências e executar o arquivo *ttsApp_v1.py* no terminal do Pyhton para rodar  programa.
 
+![](FONO2020.png)
 
+A janela principal da interface do aplicativo é vista à esquerda. À direita, vemos a janela de configurações, onde é possível escolher por qual dispositivo o áudio será reproduzido, bem como a sua taxa de amostragem, o número de canais e a opção do formato, podendo ser mp3 ou wav. Para utilizar o aplicativo, o usuário deverá inserir um texto, checar as configurações do dispositivo de áudio no botão **Configurar** e clicar em **Gerar voz** na janela principal. Por fim, para ouvir o áudio sintetizado, basta clicar no botão **Play**. É possível ainda acompanhar a reprodução do áudio na barra de progresso na parte inferior da janela principal, podendo pausar pelo botão **Pause** e encerrar a reprodução pelo botão **Stop**. Para deletar o texto inserido e restaurar a janela principal, basta clicar no botão **Limpar**.
+
+## Futura versão
+Pretende-se para a próxima versão do *software*, gerar um arquivo executável (.exe) para facilitar a utilização em diferentes dispositivos sem a necessidade de instalar um interpretador Pyuthon e suas dependências.
 
 # Dependências
 - Python 3.7
