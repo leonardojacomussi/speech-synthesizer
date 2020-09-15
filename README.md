@@ -17,8 +17,8 @@ Breve resumo do artigo apresentado no 28 Congresso de fonoaudiologia (FONO 2020)
 ## Uso
 No dado momento, o *software* desenvolvido ainda não possui um arquivo executável (.exe), necessitanto ser executato em um compilador Python. Para mais informações sobre como baixar e instalar o Python e pacotes necessários acesse (sites, sites e mais sites).
 
-### Configurando
 Para usar os *software* basta baixar os arquivos deste repositório, instalar as dependências e executar o arquivo *ttsApp_v1.py* no terminal do Pyhton para rodar  programa.
+
 
 
 # Dependências
