@@ -23,8 +23,8 @@ Para usar os *software* basta baixar os arquivos deste repositório, instalar as
 
 A janela principal da interface do aplicativo é vista à esquerda. À direita, vemos a janela de configurações, onde é possível escolher por qual dispositivo o áudio será reproduzido, bem como a sua taxa de amostragem, o número de canais e a opção do formato, podendo ser mp3 ou wav. Para utilizar o aplicativo, o usuário deverá inserir um texto, checar as configurações do dispositivo de áudio no botão **Configurar** e clicar em **Gerar voz** na janela principal. Por fim, para ouvir o áudio sintetizado, basta clicar no botão **Play**. É possível ainda acompanhar a reprodução do áudio na barra de progresso na parte inferior da janela principal, podendo pausar pelo botão **Pause** e encerrar a reprodução pelo botão **Stop**. Para deletar o texto inserido e restaurar a janela principal, basta clicar no botão **Limpar**.
 
-## Futura versão
-Pretende-se para a próxima versão do *software*, gerar um arquivo executável (.exe) para facilitar a utilização em diferentes dispositivos sem a necessidade de instalar um interpretador Pyuthon e suas dependências.
+## Versão futura
+Pretende-se para a próxima versão do *software*, gerar um arquivo executável (.exe) para facilitar a utilização em diferentes dispositivos sem a necessidade de instalar um interpretador Python e suas dependências.
 
 # Dependências
 - Python 3.7
@@ -39,8 +39,8 @@ Pretende-se para a próxima versão do *software*, gerar um arquivo executável 
   - [ResearchGate][ResearchGate_Leo]
 
 - Autora: Bárbara Circe
-  - [LinkedIn][LinkedIn_Leo]
-  - [ResearchGate][ResearchGate_Leo]
+  - [LinkedIn][LinkedIn_Ba]
+  - [ResearchGate][ResearchGate_Ba]
 
 - Orientador: William D'Andrea Fonseca
   - [LinkedIn][LinkedIn_Will]
@@ -54,5 +54,7 @@ Pretende-se para a próxima versão do *software*, gerar um arquivo executável 
 [ufsmsite]: <https://www.ufsm.br/>
 [LinkedIn_Leo]: <https://www.linkedin.com/in/leonardo-jacomussi-6549671a2>
 [ResearchGate_Leo]: <https://www.researchgate.net/profile/Leonardo_Jacomussi_Pereira_De_Araujo>
+[LinkedIn_Ba]: <https://www.linkedin.com/in/b%C3%A1rbara-circe-costa-silveira-971982193/>
+[ResearchGate_Ba]: <https://www.researchgate.net/profile/Barbara_Circe_Silveira>
 [LinkedIn_Will]: <https://www.linkedin.com/in/william-fonseca>
 [ResearchGate_Will]: <https://www.researchgate.net/profile/William_Fonseca3>
