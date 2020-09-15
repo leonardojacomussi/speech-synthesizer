@@ -2,7 +2,7 @@
 Aplicativo desenvolvido em Python para gerar (sintetizar) um sinal de fala a partir de um texto, desenvolvido por alunos do curso de graduação em [Engenharia Acústica][EAC], pela Universidade Federal de Santa Maria ([UFSM][ufsmsite]). 
 
 ## Artigo (FONO 2020)
-Breve resumo do artigo apresentado no 28 Congresso de fonoaudiologia (FONO 2020)
+Breve resumo do artigo apresentado no [XXVIII Congresso Brasileiro de Fonoaudiologia][SITE_FONO2020].
 
 - **Introdução**: Sistemas computacionais de síntese de voz têm alcançado maior robustez e sofisticação, especialmente na última década. Como consequência disso, tecnologias da fala sintética estão cada vez mais presentes e acessíveis (em diversos dispositivos) na vida moderna. De forma rudimentar, eles podem ser explicados como sistemas autônomos que são capazes de “ler textos”, convertendo as informações gráficas em sonoras.
 
@@ -52,6 +52,7 @@ Pretende-se para a próxima versão do *software*, gerar um arquivo executável 
 
 [EAC]: <https://www.eac.ufsm.br/>
 [ufsmsite]: <https://www.ufsm.br/>
+[SITE_FONO2020]: <https://lp.sbfa.org.br/fono2020/>
 [LinkedIn_Leo]: <https://www.linkedin.com/in/leonardo-jacomussi-6549671a2>
 [ResearchGate_Leo]: <https://www.researchgate.net/profile/Leonardo_Jacomussi_Pereira_De_Araujo>
 [LinkedIn_Ba]: <https://www.linkedin.com/in/b%C3%A1rbara-circe-costa-silveira-971982193/>
