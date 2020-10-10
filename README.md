@@ -47,7 +47,7 @@ Pretende-se para a próxima versão do *software*, gerar um arquivo executável 
   - [ResearchGate][ResearchGate_Will]
 
 # Referências
-(Citar artigo no 28 Congresso Brasileiro de Fonoaudiologia.)
+https://www.researchgate.net/publication/344549583_Sistema_computacional_livre_para_sintese_de_voz_a_partir_de_texto
 
 
 [EAC]: <https://www.eac.ufsm.br/>
